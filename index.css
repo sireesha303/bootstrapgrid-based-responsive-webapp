@@ -1,4 +1,22 @@
 
+
+.service-description{
+    font-family: "Roboto";
+    font-size: 18px;
+}
+.service-heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+.services-item-container{
+    border-radius: 10px;
+}
+
+.services-item-img{
+    height: 100px;
+    width: 100px;
+}
 .ecommerce-carousel{
     height: 100vh;
 }
