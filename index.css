@@ -1,5 +1,25 @@
 
 
+.trending-blog-desc{
+    font-size: 19px;
+    color: #bea4b6;
+    font-family: "Roboto";
+}
+
+.trending-blog-heading{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+.trending-blog-tag{
+    font-size: 15px;
+    color: #bea4b6;
+    font-family: "Roboto";
+}
+.trending-blog-img{
+    width:100%;
+}
+
 .credit-card-img{
     height:180px;
     width:300px;
