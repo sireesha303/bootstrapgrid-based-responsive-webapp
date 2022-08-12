@@ -1,4 +1,41 @@
 
+
+.credit-card-img{
+    height:180px;
+    width:300px;
+}
+.discount-percent{
+    font-style: italic;
+    font-weight: bold;
+}
+.special-offer-description{
+    font-family: "Roboto";
+    color: white;
+    font-size: 20px;
+
+}
+.special-offer-heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #ad2167;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+.special-offer-img{
+    height: 250px;
+    width:300px;
+}
+
+.special-offers-container{
+    background-image: linear-gradient(to right,#f49541,#dd5d97);
+}
+
+.sections-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
 .our-products-card1 {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
     background-size: cover;
@@ -49,7 +86,7 @@
 }
 .nav-item-text{
     color:black;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
 }
 
