@@ -1,5 +1,23 @@
 
 
+.deal-offer-heading{
+    font-size: 25px;
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+}
+.card-item-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+
+.deals-offers-card{
+    border-radius: 10px;
+}
 .trending-blog-desc{
     font-size: 19px;
     color: #bea4b6;
