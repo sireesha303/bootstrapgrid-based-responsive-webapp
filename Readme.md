@@ -1,4 +1,4 @@
-# Fly Buy Responsive Web App
+# Fly Buy E-Commerce Store - Responsive Web App
 
 ## About
 * Responsive web app built with Bootstrap Grid System.
@@ -10,4 +10,6 @@
 * Bootstrap
 * 
 ## Responsive views
-![image](https://user-images.githubusercontent.com/86845154/199163665-64236573-ac65-4ef0-be33-b39c68edd358.png)
+ ### medium and Large Devices
+ ![image](https://user-images.githubusercontent.com/86845154/199164456-9b5f99a7-ceae-4f93-8824-de51c8c65199.png)
+![image](https://user-images.githubusercontent.com/86845154/199164532-8776bdd9-6678-4847-8005-cd6620ccd36b.png)
