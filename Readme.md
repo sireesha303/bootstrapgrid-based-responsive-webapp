@@ -10,7 +10,7 @@
 * Bootstrap
 * 
 ## Responsive Layouts views
- ### Medium and Large Devices
+ ### <u> Medium and Large Devices <u>
  ![image](https://user-images.githubusercontent.com/86845154/199164456-9b5f99a7-ceae-4f93-8824-de51c8c65199.png)
  
  ![image](https://user-images.githubusercontent.com/86845154/199164532-8776bdd9-6678-4847-8005-cd6620ccd36b.png)
